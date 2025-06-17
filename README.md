@@ -42,6 +42,9 @@ May has the most sales with 264 edging over august with 25 sales, driven by cust
 
 Real_time updates ensure the finance team is equipped with timely insights for decision-making.
 
+**Dashboard Preview**
+![Image](https://github.com/user-attachments/assets/8424e08f-1d04-4927-ba24-4c4351c73c9b)
+
 **Acknowledgements**
 
 Thanks to the financial case studies and kaggle dataset for simulation.This dashboard was built for learning,portfolio development,and showcasing business intelligience skills.
