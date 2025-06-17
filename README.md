@@ -46,7 +46,7 @@ Real_time updates ensure the finance team is equipped with timely insights for d
 
 ![Image](https://github.com/user-attachments/assets/8424e08f-1d04-4927-ba24-4c4351c73c9b
 
-![Image](https://github.com/user-attachments/assets/23783bb8-3874-4703-a6d6-2c13d299dd07)
+![Image](https://github.com/user-attachments/assets/23783bb8-3874-4703-a6d6-2c13d299dd07
 
 
 **Acknowledgements**
